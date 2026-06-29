@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jun 29 23:14:49 2026
-
-@author: VICTUS
-"""
 
 # fraud_engine.py
 import numpy as np
