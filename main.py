@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jun 29 23:15:15 2026
-
-@author: VICTUS
-"""
 
 # main.py
 import time
