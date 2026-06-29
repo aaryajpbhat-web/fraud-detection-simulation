@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jun 29 23:14:29 2026
-
-@author: VICTUS
-"""
 
 # data_generator.py
 import numpy as np
